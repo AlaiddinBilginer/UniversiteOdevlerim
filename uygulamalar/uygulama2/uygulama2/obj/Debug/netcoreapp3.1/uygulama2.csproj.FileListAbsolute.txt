@@ -1,0 +1,13 @@
+C:\Users\alaid\OneDrive\Masaüstü\uygulama2\uygulama2\obj\Debug\netcoreapp3.1\uygulama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaid\OneDrive\Masaüstü\uygulama2\uygulama2\obj\Debug\netcoreapp3.1\uygulama2.AssemblyInfoInputs.cache
+C:\Users\alaid\OneDrive\Masaüstü\uygulama2\uygulama2\obj\Debug\netcoreapp3.1\uygulama2.AssemblyInfo.cs
+C:\Users\alaid\OneDrive\Masaüstü\uygulama2\uygulama2\obj\Debug\netcoreapp3.1\uygulama2.csproj.CoreCompileInputs.cache
+C:\Users\alaid\OneDrive\Masaüstü\uygulama2\uygulama2\bin\Debug\netcoreapp3.1\uygulama2.exe
+C:\Users\alaid\OneDrive\Masaüstü\uygulama2\uygulama2\bin\Debug\netcoreapp3.1\uygulama2.deps.json
+C:\Users\alaid\OneDrive\Masaüstü\uygulama2\uygulama2\bin\Debug\netcoreapp3.1\uygulama2.runtimeconfig.json
+C:\Users\alaid\OneDrive\Masaüstü\uygulama2\uygulama2\bin\Debug\netcoreapp3.1\uygulama2.runtimeconfig.dev.json
+C:\Users\alaid\OneDrive\Masaüstü\uygulama2\uygulama2\bin\Debug\netcoreapp3.1\uygulama2.dll
+C:\Users\alaid\OneDrive\Masaüstü\uygulama2\uygulama2\bin\Debug\netcoreapp3.1\uygulama2.pdb
+C:\Users\alaid\OneDrive\Masaüstü\uygulama2\uygulama2\obj\Debug\netcoreapp3.1\uygulama2.dll
+C:\Users\alaid\OneDrive\Masaüstü\uygulama2\uygulama2\obj\Debug\netcoreapp3.1\uygulama2.pdb
+C:\Users\alaid\OneDrive\Masaüstü\uygulama2\uygulama2\obj\Debug\netcoreapp3.1\uygulama2.genruntimeconfig.cache

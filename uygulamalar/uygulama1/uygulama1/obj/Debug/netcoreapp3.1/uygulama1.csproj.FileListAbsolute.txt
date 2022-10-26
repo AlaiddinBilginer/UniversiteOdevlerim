@@ -1,0 +1,14 @@
+C:\Users\alaid\OneDrive\Masaüstü\uygulama1\uygulama1\bin\Debug\netcoreapp3.1\uygulama1.exe
+C:\Users\alaid\OneDrive\Masaüstü\uygulama1\uygulama1\bin\Debug\netcoreapp3.1\uygulama1.deps.json
+C:\Users\alaid\OneDrive\Masaüstü\uygulama1\uygulama1\bin\Debug\netcoreapp3.1\uygulama1.runtimeconfig.json
+C:\Users\alaid\OneDrive\Masaüstü\uygulama1\uygulama1\bin\Debug\netcoreapp3.1\uygulama1.runtimeconfig.dev.json
+C:\Users\alaid\OneDrive\Masaüstü\uygulama1\uygulama1\bin\Debug\netcoreapp3.1\uygulama1.dll
+C:\Users\alaid\OneDrive\Masaüstü\uygulama1\uygulama1\bin\Debug\netcoreapp3.1\uygulama1.pdb
+C:\Users\alaid\OneDrive\Masaüstü\uygulama1\uygulama1\obj\Debug\netcoreapp3.1\uygulama1.csproj.AssemblyReference.cache
+C:\Users\alaid\OneDrive\Masaüstü\uygulama1\uygulama1\obj\Debug\netcoreapp3.1\uygulama1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaid\OneDrive\Masaüstü\uygulama1\uygulama1\obj\Debug\netcoreapp3.1\uygulama1.AssemblyInfoInputs.cache
+C:\Users\alaid\OneDrive\Masaüstü\uygulama1\uygulama1\obj\Debug\netcoreapp3.1\uygulama1.AssemblyInfo.cs
+C:\Users\alaid\OneDrive\Masaüstü\uygulama1\uygulama1\obj\Debug\netcoreapp3.1\uygulama1.csproj.CoreCompileInputs.cache
+C:\Users\alaid\OneDrive\Masaüstü\uygulama1\uygulama1\obj\Debug\netcoreapp3.1\uygulama1.dll
+C:\Users\alaid\OneDrive\Masaüstü\uygulama1\uygulama1\obj\Debug\netcoreapp3.1\uygulama1.pdb
+C:\Users\alaid\OneDrive\Masaüstü\uygulama1\uygulama1\obj\Debug\netcoreapp3.1\uygulama1.genruntimeconfig.cache

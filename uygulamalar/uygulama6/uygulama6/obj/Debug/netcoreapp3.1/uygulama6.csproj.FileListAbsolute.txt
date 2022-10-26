@@ -1,0 +1,13 @@
+C:\Users\alaid\OneDrive\Masaüstü\uygulama6\uygulama6\bin\Debug\netcoreapp3.1\uygulama6.exe
+C:\Users\alaid\OneDrive\Masaüstü\uygulama6\uygulama6\bin\Debug\netcoreapp3.1\uygulama6.deps.json
+C:\Users\alaid\OneDrive\Masaüstü\uygulama6\uygulama6\bin\Debug\netcoreapp3.1\uygulama6.runtimeconfig.json
+C:\Users\alaid\OneDrive\Masaüstü\uygulama6\uygulama6\bin\Debug\netcoreapp3.1\uygulama6.runtimeconfig.dev.json
+C:\Users\alaid\OneDrive\Masaüstü\uygulama6\uygulama6\bin\Debug\netcoreapp3.1\uygulama6.dll
+C:\Users\alaid\OneDrive\Masaüstü\uygulama6\uygulama6\bin\Debug\netcoreapp3.1\uygulama6.pdb
+C:\Users\alaid\OneDrive\Masaüstü\uygulama6\uygulama6\obj\Debug\netcoreapp3.1\uygulama6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaid\OneDrive\Masaüstü\uygulama6\uygulama6\obj\Debug\netcoreapp3.1\uygulama6.AssemblyInfoInputs.cache
+C:\Users\alaid\OneDrive\Masaüstü\uygulama6\uygulama6\obj\Debug\netcoreapp3.1\uygulama6.AssemblyInfo.cs
+C:\Users\alaid\OneDrive\Masaüstü\uygulama6\uygulama6\obj\Debug\netcoreapp3.1\uygulama6.csproj.CoreCompileInputs.cache
+C:\Users\alaid\OneDrive\Masaüstü\uygulama6\uygulama6\obj\Debug\netcoreapp3.1\uygulama6.dll
+C:\Users\alaid\OneDrive\Masaüstü\uygulama6\uygulama6\obj\Debug\netcoreapp3.1\uygulama6.pdb
+C:\Users\alaid\OneDrive\Masaüstü\uygulama6\uygulama6\obj\Debug\netcoreapp3.1\uygulama6.genruntimeconfig.cache
